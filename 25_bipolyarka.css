@@ -109,7 +109,7 @@ header{
 }
 
 .answer-variant{
-    width: 80%;
+    width: 100%;
     margin: 20px auto;
     background: rgba(99, 98, 98, 0.95);
     color: beige;
@@ -249,4 +249,12 @@ li span{
 
 color: rgba(175, 98, 67, 0.95);
 
+}
+
+.main{
+ display:grid;
+    grid-template-columns: repeat(1,minmax(300px,1fr));
+    grid-template-rows: minmax(50px,auto);
+    
+    grid-gap: 20px;
 }
