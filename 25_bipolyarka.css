@@ -67,7 +67,7 @@ header{
         padding: 15px;
         font-family: Georgia, serif;
         text-align: left;
-        font-size: 20px;
+        font-size: 25px;
         text-transform: none;
         border-radius: 8px;
         text-decoration: none;
@@ -110,7 +110,7 @@ header{
 
 .answer-variant{
     width: 100%;
-    margin: 20px auto;
+    margin: 10px auto;
     background: rgba(51, 50, 50, 0.95);
     color: beige;
     padding: 15px;
