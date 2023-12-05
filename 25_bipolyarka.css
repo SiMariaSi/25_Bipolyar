@@ -74,7 +74,7 @@ header{
         text-align: center;
      display:grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(250px,auto);
+    grid-template-rows: minmax(50px,auto);
     
     grid-gap: 20px;
    
@@ -99,9 +99,9 @@ header{
     text-align: center;
      display:grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(250px,auto);
+    grid-template-rows: minmax(50px,auto);
     
-    grid-gap: 20px;
+    grid-gap: 0px;
    
     
     width: 100%;
@@ -123,9 +123,9 @@ header{
     text-align: center;
      display:grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(250px,auto);
+    grid-template-rows: minmax(50px,auto);
     
-    grid-gap: 20px;
+    grid-gap: 0px;
    
     
     width: 100%;
@@ -169,7 +169,7 @@ li{
     text-align: center;
      display:grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(250px,auto);
+    grid-template-rows: minmax(50px,auto);
     
     grid-gap: 20px;
    
