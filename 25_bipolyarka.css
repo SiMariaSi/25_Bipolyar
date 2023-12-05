@@ -73,7 +73,7 @@ header{
         text-decoration: none;
         text-align: center;
      display:grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-columns: 1fr;
     grid-template-rows: minmax(250px,auto);
     
     grid-gap: 20px;
@@ -98,7 +98,7 @@ header{
     text-decoration: none;
     text-align: center;
      display:grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-columns: 1fr;
     grid-template-rows: minmax(250px,auto);
     
     grid-gap: 20px;
@@ -122,7 +122,7 @@ header{
     text-decoration: none;
     text-align: center;
      display:grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-columns: 1fr;
     grid-template-rows: minmax(250px,auto);
     
     grid-gap: 20px;
@@ -168,7 +168,7 @@ li{
     text-decoration: none;
     text-align: center;
      display:grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-columns: 1fr;
     grid-template-rows: minmax(250px,auto);
     
     grid-gap: 20px;
