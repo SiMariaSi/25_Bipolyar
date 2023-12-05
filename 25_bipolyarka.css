@@ -85,9 +85,9 @@ header{
 }
 
 .answer {
-    width: 50%;
+    width: 100%;
     margin: 5px auto;
-    background: rgba(51, 50, 50, 0.95);
+  
     color: beige;
     padding: 15px;
     font-family: Georgia, serif;
@@ -111,7 +111,7 @@ header{
 .answer-variant{
     width: 100%;
     margin: 20px auto;
-    background: rgba(99, 98, 98, 0.95);
+    background: rgba(51, 50, 50, 0.95);
     color: beige;
     padding: 15px;
     font-family: Georgia, serif;
@@ -126,6 +126,8 @@ header{
     grid-template-rows: minmax(50px,auto);
     
     grid-gap: 0px;
+
+    wi
    
     
    
