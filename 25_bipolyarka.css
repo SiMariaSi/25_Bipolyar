@@ -72,6 +72,14 @@ header{
         border-radius: 8px;
         text-decoration: none;
         text-align: center;
+     display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-rows: minmax(250px,auto);
+    
+    grid-gap: 20px;
+   
+    
+    width: 100%;
     
     
 }
@@ -89,6 +97,14 @@ header{
     border-radius: 8px;
     text-decoration: none;
     text-align: center;
+     display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-rows: minmax(250px,auto);
+    
+    grid-gap: 20px;
+   
+    
+    width: 100%;
 
 }
 
@@ -105,6 +121,14 @@ header{
     border-radius: 8px;
     text-decoration: none;
     text-align: center;
+     display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-rows: minmax(250px,auto);
+    
+    grid-gap: 20px;
+   
+    
+    width: 100%;
 }
 
 .answer-variant li{
@@ -143,6 +167,14 @@ li{
     border-radius: 8px;
     text-decoration: none;
     text-align: center;
+     display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-rows: minmax(250px,auto);
+    
+    grid-gap: 20px;
+   
+    
+    width: 100%;
 
 }
 
